@@ -1,0 +1,111 @@
+.navContainer9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-inline: 15%;
+}
+
+.head9 {
+  color: var(--colors-heading, #1e0e62);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.293px;
+}
+
+.list9 {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.listItem9 {
+  margin-right: 20px;
+  color: var(--colors-heading, #1e0e62);
+  /* Buttons / Middle */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  text-decoration: none;
+}
+
+.buttonTransp9 {
+  border-radius: 100px;
+  background: transparent;
+  width: 117px;
+  height: 40px;
+  flex-shrink: 0;
+  color: var(--colors-heading, #1e0e62);
+  /* Buttons / Middle */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-left: 20px;
+
+  border: 2px solid var(--colors-grey, #ebeaed);
+}
+
+.title9 {
+  color: var(--colors-heading, #1e0e62);
+  /* Heading / H2 Header */
+  font-family: DM Sans;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 120.69% */
+  letter-spacing: -1px;
+  margin-top: 0px;
+}
+.flexContainer9 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 7%;
+  margin-bottom: 4%;
+}
+
+.flex1split9 {
+  flex: 1;
+  margin-inline: 15%;
+}
+
+.flex2split9 {
+  flex: 1;
+}
+
+.para9 {
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+  /* Text / Article */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.button9 {
+  border-radius: 100px;
+  background: #482be7;
+  width: 206px;
+  height: 60px;
+  flex-shrink: 0;
+  color: var(--colors-heading, #ffffff);
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-top: 30px;
+  outline: none;
+  border: none;
+}

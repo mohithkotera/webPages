@@ -1,0 +1,231 @@
+.mainContainer14 {
+  background: var(--background-dark, #2f1893);
+  padding-bottom: 4%;
+}
+.navContainer14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-inline: 15%;
+}
+
+.head14 {
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.293px;
+}
+
+.list14 {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.listItem14 {
+  margin-right: 20px;
+  color: var(--colors-white, #fff);
+  /* Buttons / Small */
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  text-decoration: none;
+}
+
+.button14 {
+  border-radius: 100px;
+  background: #e93a7d;
+  width: 94px;
+  height: 40px;
+  flex-shrink: 0;
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-left: 20px;
+  border-radius: 100px;
+  border: none;
+}
+
+.buttonSignUp14 {
+  border-radius: 100px;
+  background: #e93a7d;
+  width: 157px;
+  height: 50px;
+  flex-shrink: 0;
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+
+  border-radius: 100px;
+  border: none;
+}
+
+.buttonSignIn14 {
+  border-radius: 100px;
+  background: #482be7;
+  width: 330px;
+  height: 50px;
+  flex-shrink: 0;
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  border-radius: 100px;
+  border: none;
+}
+
+.buttonSignLogin14 {
+  border-radius: 100px;
+  background: #1da1f2;
+  width: 330px;
+  height: 50px;
+  flex-shrink: 0;
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  border-radius: 100px;
+  border: none;
+}
+
+.title14 {
+  color: var(--colors-white, #fff);
+  /* Heading / H2 Header */
+  font-family: DM Sans;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 120.69% */
+  letter-spacing: -1px;
+  width: 424px;
+}
+.para14 {
+  color: var(--colors-white, #fff);
+  /* Heading / H5 Lead */
+  font-family: DM Sans;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  width: 363px;
+}
+
+.flexContainer14 {
+  display: flex;
+  flex-direction: row;
+  padding-inline: 14%;
+}
+
+.firstFlex14 {
+  flex: 1;
+}
+.secondFlex14 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card14 {
+  width: 470px;
+  height: 600px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: var(--background-light, #fff);
+}
+
+.titleCard14 {
+  color: var(--colors-heading, #1e0e62);
+  text-align: center;
+  /* Heading / H3 Title */
+  font-family: DM Sans;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px; /* 123.81% */
+  letter-spacing: -0.4px;
+}
+
+.inputDiv14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input14 {
+  width: 330px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  border: 2px solid var(--colors-grey, #ebeaed);
+  outline: none;
+  padding-left: 5%;
+  margin-top: 30px;
+}
+.line14 {
+  width: 141.57px;
+  height: 2px;
+  flex-shrink: 0;
+  stroke-width: 2px;
+  stroke: var(--colors-grey, #ebeaed);
+}
+.or14 {
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+  text-align: center;
+  /* Text / Paragraph */
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.orcontainer14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px 0px;
+  gap: 10px;
+}
+
+.lastPara14 {
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+.agree14 {
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+  /* Text / Paragraph */
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}

@@ -1,0 +1,114 @@
+.main11{
+  padding-top: 3%;
+  padding-bottom:8%;
+
+}
+.navContainer11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 15%;
+   
+}
+
+.head11 {
+  color: var(--colors-heading, #1e0e62);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.293px;
+}
+
+.list11 {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.listItem11 {
+  margin-right: 20px;
+  color: var(--colors-heading, #1e0e62);
+  /* Buttons / Middle */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  text-decoration: none;
+}
+
+.buttonbuy11 {
+  border-radius: 100px;
+  background: #482be7;
+  width: 80px;
+  height: 40px;
+  flex-shrink: 0;
+  color: var(--colors-heading, #ffffff);
+  /* Buttons / Middle */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-left: 20px;
+border: none;
+}
+
+.title11 {
+  color: var(--colors-heading, #1e0e62);
+  /* Heading / H2 Header */
+  font-family: DM Sans;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 120.69% */
+  letter-spacing: -1px;
+}
+.mainflex11 {
+  display: flex;
+  flex-direction: row;
+  padding-inline: 15%;
+}
+
+.para11 {
+  color: var(--colors-text, rgba(21, 20, 57, 0.4));
+  /* Heading / H5 Lead */
+  font-family: DM Sans;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+.button11 {
+  border-radius: 100px;
+  background: #25dac5;
+  width: 153px;
+  height: 50px;
+  flex-shrink: 0;
+  color: var(--colors-heading, #ffffff);
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-top: 30px;
+  outline: none;
+  border: none;
+}
+.small11 {
+  color: var(--colors-heading, #1e0e62);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-left: 15px;
+}

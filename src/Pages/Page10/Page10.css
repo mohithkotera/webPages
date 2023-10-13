@@ -1,0 +1,117 @@
+.mainDiv10 {
+  background-color: #2f1893;
+  padding-bottom: 5%;
+}
+.navContainer10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-inline: 15%;
+}
+
+.head10 {
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.293px;
+}
+
+.list10 {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.listItem10 {
+  margin-right: 20px;
+  color: var(--colors-white, #fff);
+  /* Buttons / Small */
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  text-decoration: none;
+}
+
+.button10 {
+  border-radius: 100px;
+  background: transparent;
+  width: 94px;
+  height: 40px;
+  flex-shrink: 0;
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-left: 20px;
+
+  border: 2px solid var(--colors-white, #fff);
+ 
+}
+
+.title10 {
+  color: var(--colors-white, #fff);
+  text-align: center;
+  /* Heading / H2 Header */
+  font-family: DM Sans;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 120.69% */
+  letter-spacing: -1px;
+}
+
+.midcontainer10 {
+  padding-inline: 25%;
+}
+
+.para10 {
+  color: var(--colors-white, #fff);
+  text-align: center;
+  /* Heading / H5 Lead */
+  font-family: DM Sans;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  padding-inline: 5%;
+}
+
+.getStartbutton10 {
+  border-radius: 100px;
+  background: #25dac5;
+  width: 280px;
+  height: 70px;
+  flex-shrink: 0;
+  color: var(--colors-white, #fff);
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  border: none;
+  margin-block: 5%;
+}
+
+.paralast10 {
+  color: var(--colors-white, #fff);
+  /* Text / Article */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
