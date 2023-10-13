@@ -57,11 +57,11 @@ const Page14 = () => {
             <div
               style={{
                 display: "flex",
-                justifyContent: "flex-start",
+
                 justifyContent: "center",
               }}
             >
-              <input placeholder="Your email" type="checkbox" />
+              <input type="checkbox" />
               <p className="agree14">I agree to the Terms of Service.</p>
             </div>
             <div className="secondFlex14">
