@@ -1,6 +1,6 @@
 import React from "react";
 
-const RoundTwitter = () => {
+const TwitterR = () => {
   return (
     <div>
       <svg
@@ -19,4 +19,4 @@ const RoundTwitter = () => {
   );
 };
 
-export default RoundTwitter;
+export default TwitterR;
