@@ -57,7 +57,6 @@ const Page14 = () => {
             <div
               style={{
                 display: "flex",
-
                 justifyContent: "center",
               }}
             >
