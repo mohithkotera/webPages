@@ -5,7 +5,7 @@
       rgba(0, 0, 0, 0.2) 40.57%,
       #000000 200%
     ),
-    url("./images/bg8.png");
+    url("../../imageBg/bg8.png");
   background-size: cover;
   object-fit: contain;
   padding: 4% 0%;

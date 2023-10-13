@@ -1,13 +1,14 @@
 .mainContainer21 {
   width: 100%;
-  background-image:linear-gradient(
+  background-image: linear-gradient(
       rgba(0, 0, 0, 0.2) 0%,
       rgba(0, 0, 0, 0.2) 40.57%,
       #000000 200%
-    ), url("./images/bg.svg");
+    ),
+    url("../../imageBg/bg.svg");
   background-size: cover;
   background-repeat: no-repeat;
-  
+
   object-fit: contain;
   padding-bottom: 4%;
   padding-top: 1%;
@@ -66,7 +67,6 @@
   line-height: 22px;
   margin-left: 20px;
   border: 2px solid var(--colors-white, #fff);
-  
 }
 
 .buttonSignUp21 {
@@ -128,7 +128,7 @@
   opacity: 0.7;
   width: 300px;
 }
-.tpcontainer21{
+.tpcontainer21 {
   display: flex;
   flex-direction: row;
   gap: 5%;

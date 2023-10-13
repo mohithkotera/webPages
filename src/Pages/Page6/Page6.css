@@ -1,11 +1,12 @@
 .mainContainer6 {
   height: 800px;
   width: 100%;
-  background-image:linear-gradient(
+  background-image: linear-gradient(
       rgba(0, 0, 0, 0.2) 0%,
       rgba(0, 0, 0, 0.2) 40.57%,
       #000000 200%
-    ), url("./images/bgimg.png");
+    ),
+    url("../../imageBg/bg6.png");
   background-size: cover;
   object-fit: contain;
 }
