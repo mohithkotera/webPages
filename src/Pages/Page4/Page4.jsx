@@ -1,9 +1,9 @@
 import React from "react";
 import "./Page4.css";
-import Twitter from "../../../public/Icons/Twitter";
-import Facebook from "../../../public/Icons/Facebook";
-import GooglePlus from "../../../public/Icons/GooglePlus";
-import Youtube from "../../../public/Icons/Youtube";
+import Twitter from "../../Icons/Twitter";
+import Facebook from "../../Icons/Facebook";
+import GooglePlus from "../../Icons/GooglePlus";
+import Youtube from "../../Icons/Youtube";
 
 const Page4 = () => {
   return (

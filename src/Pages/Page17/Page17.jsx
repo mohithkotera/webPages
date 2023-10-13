@@ -1,8 +1,8 @@
 import React from "react";
 import "./Page17.css";
-import FacebookWhite from "../../../public/Icons/FacebookWhite";
-import TwitterWhite from "../../../public/Icons/TwitterWhite";
-import Youtube from "../../../public/Icons/Youtube";
+import FacebookWhite from "../../Icons/FacebookWhite";
+import TwitterWhite from "../../Icons/TwitterWhite";
+import Youtube from "../../Icons/Youtube";
 
 const Page17 = () => {
   return (

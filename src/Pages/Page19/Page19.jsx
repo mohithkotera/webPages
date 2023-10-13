@@ -1,7 +1,7 @@
 import React from "react";
 import "./Page19.css";
-import Print from "../../../public/Icons/Print";
-import Apple from "../../../public/Icons/Apple";
+import Print from "../../Icons/Print";
+import Apple from "../../Icons/Apple";
 
 const Page19 = () => {
   return (

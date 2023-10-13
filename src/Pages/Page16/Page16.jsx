@@ -1,7 +1,7 @@
 import React from "react";
 import "./Page16.css";
-import Settings from "../../../public/Icons/Settings";
-import Html from "../../../public/Icons/Html";
+import Settings from "../../Icons/Settings";
+import Html from "../../Icons/Html";
 
 const Page16 = () => {
   return (

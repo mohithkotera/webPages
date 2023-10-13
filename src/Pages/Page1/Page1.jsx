@@ -1,6 +1,6 @@
 import React from "react";
 import "./Page1.css";
-import Search from "../../../public/Icons/Search";
+import Search from "../../Icons/Search";
 
 const Page1 = () => {
   return (
@@ -11,9 +11,15 @@ const Page1 = () => {
           <li className="listItem" style={{ color: "#15143966" }}>
             Home
           </li>
-          <li className="listItem" style={{ color: "#15143966" }}>Features</li>
-          <li className="listItem" style={{ color: "#15143966" }}>Blog</li>
-          <li className="listItem" style={{ color: "#15143966" }}>Shop</li>
+          <li className="listItem" style={{ color: "#15143966" }}>
+            Features
+          </li>
+          <li className="listItem" style={{ color: "#15143966" }}>
+            Blog
+          </li>
+          <li className="listItem" style={{ color: "#15143966" }}>
+            Shop
+          </li>
           <span className="searchIcon">
             <Search />
           </span>

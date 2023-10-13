@@ -1,7 +1,7 @@
 import React from "react";
 import "./Page8.css";
-import Round from "../../../public/Icons/Round";
-import BeIcon from "../../../public/Icons/BeIcon";
+import Round from "../../Icons/Round";
+import BeIcon from "../../Icons/BeIcon";
 
 const Page8 = () => {
   return (

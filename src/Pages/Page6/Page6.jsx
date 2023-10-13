@@ -1,6 +1,6 @@
 import React from "react";
 import "./Page6.css";
-import Youtube from "../../../public/Icons/Youtube";
+import Youtube from "../../Icons/Youtube";
 
 const Page6 = () => {
   return (

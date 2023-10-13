@@ -1,10 +1,10 @@
 import React from "react";
 import "./Page22.css";
 
-import RoundTwitter from "../../../public/Icons/roundTwitter";
-import FacebookR from "../../../public/Icons/FacebookR";
-import GoogleR from "../../../public/Icons/GoogleR";
-import Github from "../../../public/Icons/Github";
+import RoundTwitter from "../../Icons/roundTwitter";
+import FacebookR from "../../Icons/FacebookR";
+import GoogleR from "../../Icons/GoogleR";
+import Github from "../../Icons/Github";
 
 const Page22 = () => {
   return (

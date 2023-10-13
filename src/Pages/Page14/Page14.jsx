@@ -1,6 +1,6 @@
 import React from "react";
 import "./Page14.css";
-import Straight from "../../../public/Icons/Straight";
+import Straight from "../../Icons/Straight";
 const Page14 = () => {
   return (
     <div className="mainContainer14">

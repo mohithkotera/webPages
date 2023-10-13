@@ -1,8 +1,8 @@
 import React from "react";
 import "./Page13.css";
-import Round from "../../../public/Icons/Round";
-import Insta from "../../../public/Icons/Insta";
-import BeIcon from "../../../public/Icons/BeIcon";
+import Round from "../../Icons/Round";
+import Insta from "../../Icons/Insta";
+import BeIcon from "../../Icons/BeIcon";
 
 const Page13 = () => {
   return (
