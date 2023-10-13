@@ -1,10 +1,10 @@
 import React from "react";
 import "./Page22.css";
 
-import RoundTwitter from "../../Icons/roundTwitter";
-import FacebookR from "../../Icons/FacebookR";
-import GoogleR from "../../Icons/GoogleR";
-import Github from "../../Icons/Github";
+// import RoundTwitter from "../../Icons/roundTwitter";
+// import FacebookR from "../../Icons/FacebookR";
+// import GoogleR from "../../Icons/GoogleR";
+// import Github from "../../Icons/Github";
 
 const Page22 = () => {
   return (
@@ -56,7 +56,7 @@ const Page22 = () => {
       </div>
       <div className="lastContainer22">
         <h3 className="orClass22">or sign up with</h3>
-        <div style={{ display: "flex", flexDirection: "row", gap: 20 }}>
+        {/* <div style={{ display: "flex", flexDirection: "row", gap: 20 }}>
           <div className="borderCls22">
             <RoundTwitter />
           </div>
@@ -69,7 +69,7 @@ const Page22 = () => {
           <div className="borderCls22">
             <Github />
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
